@@ -1,4 +1,4 @@
-n = int(input())
+n = int()
 counter = 0
 total = 0
 while counter <=n:
