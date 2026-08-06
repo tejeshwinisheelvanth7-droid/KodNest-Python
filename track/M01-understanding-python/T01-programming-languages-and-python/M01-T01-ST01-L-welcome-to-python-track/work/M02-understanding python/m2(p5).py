@@ -1,5 +1,5 @@
-limit = int(input())
-target = int(input())
+limit = int()
+target = int()
 count = 0
 total = 0
 found = "No"
