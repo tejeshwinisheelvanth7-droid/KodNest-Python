@@ -1,4 +1,4 @@
-limit = int(input())
+limit = int()
 number = 1
 total = 0
 while number <= limit:
