@@ -1,5 +1,5 @@
-marks = int(input())
-attendance = int(input())
+marks = int()
+attendance = int()
 project_completion_status = input()
 if marks >=60 and attendance >=75:
     if project_completion_status =="Yes":
