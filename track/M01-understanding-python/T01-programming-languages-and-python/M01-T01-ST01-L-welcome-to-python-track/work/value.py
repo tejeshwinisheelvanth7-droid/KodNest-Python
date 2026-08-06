@@ -1,6 +1,6 @@
 Student = input()
-Age = int (input())
-Course = float(input())
+Age = int()
+Course = float()
 print(f"Student: {Student}")
 print(f"Age: {Age}")
 print(f"Rating: {Course}")
