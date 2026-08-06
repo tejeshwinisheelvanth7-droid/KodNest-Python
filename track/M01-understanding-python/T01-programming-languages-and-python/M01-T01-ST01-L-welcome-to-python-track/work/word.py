@@ -1,4 +1,4 @@
-n = int(input())
+n = int()
 word = input()
 print ("Numbers:")
 for i in range (1, n+1):
